@@ -12,16 +12,16 @@
 * [three.js@mrdoob](https://github.com/mrdoob/three.js) JavaScript
 
 # print
-[awesome-3d-printing@adius](https://github.com/adius/awesome-3d-printing)
+* [awesome-3d-printing@adius](https://github.com/adius/awesome-3d-printing)
 
 # reconstruction
-[awesome_3DReconstruction_list@openMVG](https://github.com/openMVG/awesome_3DReconstruction_list)
+* [awesome_3DReconstruction_list@openMVG](https://github.com/openMVG/awesome_3DReconstruction_list)
 
 # AR(Augment Reality)
 
 # VR(Virtual Reality)
-[react-vr@facebook](https://github.com/facebook/react-vr)
+* [react-vr@facebook](https://github.com/facebook/react-vr)
 
 # MR(Mixed Reality)
-[Mixed-Reality-JS@dbradleyfl](https://github.com/dbradleyfl/Mixed-Reality-JS) HoloLens
-[Terminator-Vision@gdfonda](https://github.com/gdfonda/Terminator-Vision) HoloLens; HUD; HoloToolkit
+* [Mixed-Reality-JS@dbradleyfl](https://github.com/dbradleyfl/Mixed-Reality-JS) HoloLens
+* [Terminator-Vision@gdfonda](https://github.com/gdfonda/Terminator-Vision) HoloLens; HUD; HoloToolkit
