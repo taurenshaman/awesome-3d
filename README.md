@@ -1,4 +1,5 @@
 # awesome-3d
+AR/MR/VR is the future, and 3D model is the basics of all of them.
 
 # modeling software
 * [blender](https://www.blender.org/) cross-platform
