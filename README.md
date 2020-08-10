@@ -1,5 +1,9 @@
 # awesome-3d
 
+# modeling software
+* [blender](https://www.blender.org/) cross-platform
+* [Dust3D](https://github.com/huxingyi/dust3d) cross-platform
+
 # library
 * [Babylon.js](https://github.com/BabylonJS/Babylon.js) WebGL; TypeScript; JavaScript
 * [dat.guiVR@dataarts](https://github.com/dataarts/dat.guiVR) JavaScript; GUI; WebVR; three.js
