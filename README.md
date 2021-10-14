@@ -30,6 +30,7 @@ AR/MR/VR is the future, and 3D model is the basics of all of them.
 
 # AR(Augment Reality)
 * [AR.js](https://github.com/jeromeetienne/AR.js) Mobile; 60fps; JavaScript
+* [ar-multipendulum](https://github.com/philipturner/ar-multipendulum) Swift; iOS
 * [argon](https://github.com/argonjs/argon) TypeScript; JavaScript
 > An open-standards augmented reality platform for the web http://argonjs.io/  
 * [ARToolkit](https://github.com/artoolkit)
