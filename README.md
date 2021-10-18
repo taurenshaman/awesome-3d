@@ -6,6 +6,8 @@ AR/MR/VR is the future, and 3D model is the basics of all of them.
 * [Dust3D](https://github.com/huxingyi/dust3d) cross-platform
 
 # library
+* [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) Swift; iOS
+> ARHeadsetKit uses $5 Google Cardboard to replicate Microsoft Hololens. It is also a very high-level framework for beginners to experiment with AR.
 * [Babylon.js](https://github.com/BabylonJS/Babylon.js) WebGL; TypeScript; JavaScript
 * [dat.guiVR@dataarts](https://github.com/dataarts/dat.guiVR) JavaScript; GUI; WebVR; three.js
 * [draco@google](https://github.com/google/draco) C++
@@ -28,7 +30,7 @@ AR/MR/VR is the future, and 3D model is the basics of all of them.
 # reconstruction
 * [awesome_3DReconstruction_list@openMVG](https://github.com/openMVG/awesome_3DReconstruction_list)
 
-# AR(Augment Reality)
+# AR (Augmented Reality)
 * [AR.js](https://github.com/jeromeetienne/AR.js) Mobile; 60fps; JavaScript
 * [ar-multipendulum](https://github.com/philipturner/ar-multipendulum) Swift; iOS
 * [argon](https://github.com/argonjs/argon) TypeScript; JavaScript
@@ -40,12 +42,12 @@ AR/MR/VR is the future, and 3D model is the basics of all of them.
 * [WebARonARCore](https://github.com/google-ar/WebARonARCore) Google; ARCore; Android
 * [WebARonARKit](https://github.com/google-ar/WebARonARKit) Google; ARKit; iOS; Objective-C; JavaScript
 
-# VR(Virtual Reality)
+# VR (Virtual Reality)
 * [aframe](https://github.com/aframevr/aframe/) web framework; JavaScript
 * [Hologram](https://github.com/etiennepinchon/hologram) Framework | All-in-one WebVR creation. CoffeeScript
 * [react-vr@facebook](https://github.com/facebook/react-vr) react; JavaScript
 
-# MR(Mixed Reality)
+# MR (Mixed Reality)
 * [aframe-xr](https://github.com/mozilla/aframe-xr) WebXR; A-frame; JavaScript
 * [HolographicAcademy](https://github.com/Microsoft/HolographicAcademy) Holographic; Holograms; Academy; code asset
 * [Mixed-Reality-JS@dbradleyfl](https://github.com/dbradleyfl/Mixed-Reality-JS) HoloLens; JavaScript
